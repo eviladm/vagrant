@@ -1,0 +1,10 @@
+---
+ntp_timezone: UK/London
+jenkins_home: /home/jenkins
+jenkins_version: "2.9"
+firewall_allowed_tcp_ports:
+  - "22"
+  - "25"
+  - "80"
+  - "443"
+  - "8080"
